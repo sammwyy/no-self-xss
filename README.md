@@ -12,7 +12,7 @@ Before displaying the warning, the script tries to find the most suitable langua
 - CN  | Chinese  
 - DE  | German  
 - EN  | English  
-- ES  | Spanish  
+- 🇪🇸 ES  | Spanish  
 - FIL | Philippine  
 - FR  | French  
 - ID  | Indonesian  
