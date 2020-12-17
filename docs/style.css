@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    margin: auto;
+    width: 30%;
+    background-color: #DDD;
+    border-radius: 30px;
+    margin-top: 7%;
+    padding: 20px 40px;
+}
+
+a:link {
+    color: #2277FF; 
+    text-decoration: none;
+}
+
+a:visited {
+    color: #2277FF; 
+}
