@@ -1,6 +1,6 @@
 # 🖥️ No Self XSS
 This script is designed to display a warning message to prevent Self XSS Attacks.  
-[Demo](/demo)
+[Demo](/docs)
 
 ### 🔨 How its work?
 The script detects when the Devtools console is open and displays a warning.  
